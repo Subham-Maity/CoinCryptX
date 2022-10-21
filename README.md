@@ -1,4 +1,9 @@
 <h1 align="center"> CoinCryptX </h1>
+
+<p align="center">
+        <img src="https://media3.giphy.com/media/hK61m7SawMkqUcyLg1/giphy.gif"/>
+        </p>
+
 <div align="center"> <h3>So you'd like to learn about this technology, no problem. Just open your CodeXam learning platform and start learning.</h3> 
 </div>
 
