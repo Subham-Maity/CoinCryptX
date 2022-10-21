@@ -3,13 +3,8 @@
 </div>
 
 <div align="center" >
-  👇
+
+<h2> 👉 <a href="https://code-xam.vercel.app/ccx">CodeXam</a> </h2>
 </div>
 
-<div align="center" >
-  <a href="https://code-xam.vercel.app/ccx">
-    <button>CodeXam</button>
-  </a> 
-</div>
-
-Every developer like black theme, so we have a black theme for you so turn on your dark mode and enjoy the dark theme 😉.
+Every developer likes black theme, so we have a black theme for you so turn on your dark mode and enjoy the dark theme 😉.
