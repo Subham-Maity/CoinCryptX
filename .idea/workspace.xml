@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5858a83a-f474-46de-93ef-63db057178aa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../CodeXam/README/unwanted text/ccx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeXam/README/unwanted text/ccx.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeXam/pages/ccx.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeXam/pages/ccx.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CoinCryptX.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_site/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_site/src/components/Loader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_site/src/components/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_site/src/components/Services.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_site/src/components/Transactions.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_site/src/components/Welcome.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_site/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_site/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_site/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../CodeXam" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,16 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/mains/CodeXam&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/mains/CodeXam",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\mains\CoinCryptX\client_site\src" />
@@ -53,7 +57,12 @@
       <workItem from="1666385945550" duration="214000" />
       <workItem from="1666386170492" duration="6000" />
       <workItem from="1666386187099" duration="10246000" />
-      <workItem from="1666398967160" duration="12272000" />
+      <workItem from="1666398967160" duration="14389000" />
+      <workItem from="1666525889154" duration="122000" />
+      <workItem from="1666668206896" duration="105000" />
+      <workItem from="1666668345639" duration="2008000" />
+      <workItem from="1666673265002" duration="651000" />
+      <workItem from="1666720289599" duration="4164000" />
     </task>
     <servers />
   </component>
