@@ -3,25 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5858a83a-f474-46de-93ef-63db057178aa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client_site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/public/vite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/assets/react.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/components/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/components/Loader.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/components/Loader.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/components/Services.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/components/Services.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/components/Transactions.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/components/Transactions.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/components/Welcome.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/components/Welcome.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/tailwind.config.cjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client_site/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client_site/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_smart_contract/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/main_smart_contract/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +58,7 @@
       <workItem from="1666720289599" duration="17597000" />
       <workItem from="1667807965672" duration="730000" />
       <workItem from="1667808789172" duration="666000" />
+      <workItem from="1667820709470" duration="189000" />
     </task>
     <servers />
   </component>
